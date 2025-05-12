@@ -1,0 +1,1 @@
+This program compiled for me without warnings and was correctly named. The code was consistently indented. You used two define numbers. 'void rot(char str[]);' and 'void test(void);' need not to be written ahead, as they are written in main.c. The testing was quite thorough and the program worked well. Overall, I'd give this 65%.

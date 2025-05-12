@@ -1,0 +1,1 @@
+This program compiled for me with one warning. Function your_tests should return void, while the program returned int. And tests in this funtion are the same with tests in function test. The document was correctly named. The code was consistentely indented. Overall, I'd give this 50%, apart from the mistake, program can work well.
